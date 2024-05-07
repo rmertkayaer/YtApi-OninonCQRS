@@ -7,7 +7,7 @@ using YTApi.Domain.Common;
 
 namespace YTApi.Domain.Entities
 {
-    public class Category : EntityBase, IEntityBase
+    public class Category : EntityBase
     {
         public Category() { }
 
